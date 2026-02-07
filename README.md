@@ -38,7 +38,7 @@ Follow these steps to see the project on your computer:
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd moviereviewsproject
 
-### 2. Create a virtual environment
+2. Create a virtual environment
 Bash
 python -m venv venv
 
@@ -48,23 +48,22 @@ python -m venv venv
 # macOS/Linux
 source venv/bin/activate
 
-### 3. Install Django
+3. Install Django
 Bash
 pip install django
 
-### 4. Set up the database
+4. Set up the database
 Bash
 python manage.py makemigrations
 python manage.py migrate
 
-### 5. Run the server
+5. Run the server
 Bash
 python manage.py runserver
 
-###6. Open the site
+6. Open the site
 Go to http://127.0.0.1:8000/ in your browser.
 
----
 
 Created by: Isabella Cadavid
 

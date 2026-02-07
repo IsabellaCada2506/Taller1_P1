@@ -66,10 +66,11 @@ Go to http://127.0.0.1:8000/ in your browser.
 
 ---
 
----
+
+## 👤 Author / Credits
 
 **Created by:**  
-Isabella Cadavid  
+Isabella Cadavid Posada
 
 **Course:**  
 ST0251 - 2026-1  

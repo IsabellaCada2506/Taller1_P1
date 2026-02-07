@@ -64,12 +64,18 @@ python manage.py runserver
 6. Open the site
 Go to http://127.0.0.1:8000/ in your browser.
 
-
-Created by: Isabella Cadavid
-
-Course: ST0251 - 2026-1
-
-Institution: Universidad EAFIT
-
+---
 
 ---
+
+**Created by:**  
+Isabella Cadavid  
+
+**Course:**  
+ST0251 - 2026-1  
+
+**Institution:**  
+Universidad EAFIT
+
+---
+

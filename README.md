@@ -28,6 +28,20 @@ The site is made to be friendly and easy to use:
 * **Database**: SQLite
 * **Version Control**: Git & GitHub
 
+
+
+## 👤 Author / Credits
+
+* **Created by:**  
+Isabella Cadavid Posada
+
+* **Course:**  
+ST0251 - 2026-1  
+
+* **Institution:**  
+Universidad EAFIT
+
+
 ---
 
 ## 💻 How to Run It
@@ -35,7 +49,7 @@ Follow these steps to see the project on your computer:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone https://github.com/IsabellaCada2506/Taller1_P1
 cd moviereviewsproject
 
 2. Create a virtual environment
@@ -63,20 +77,6 @@ python manage.py runserver
 
 6. Open the site
 Go to http://127.0.0.1:8000/ in your browser.
-
----
-
-
-## 👤 Author / Credits
-
-**Created by:**  
-Isabella Cadavid Posada
-
-**Course:**  
-ST0251 - 2026-1  
-
-**Institution:**  
-Universidad EAFIT
 
 ---
 
